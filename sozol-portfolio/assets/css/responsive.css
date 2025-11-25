@@ -1,0 +1,23 @@
+/* XXL Devices (Large Desktop / Wide Monitor): 1620px ↓ */
+@media screen and (max-width: 1620px) {}
+
+/* XL Devices (Desktop / Full HD Screens): 1449px ↓ */
+@media screen and (max-width: 1449px) {}
+
+
+
+
+/* Large Devices (Laptop & Small Desktop): 1200px ↓ */
+@media screen and (max-width: 1200px) {}
+
+
+/* Medium Devices (Tablet Landscape): 992px ↓ */
+@media screen and (max-width: 991px) {}
+
+
+/* Small Devices (Tablet Portrait / Large Mobile): 768px ↓ */
+@media screen and (max-width: 767px) {}
+
+
+/* Extra Small Devices (Mobile): 576px ↓ */
+@media screen and (max-width: 575px) {}
